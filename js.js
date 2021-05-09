@@ -9,6 +9,6 @@ login.onclick = function(){
         window.close();
     }
     else{
-        alert("tai khoan mat khau sai");
+        alert("Tài khoản hoặc mật khẩu sai!");
     }
 }
